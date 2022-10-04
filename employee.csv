@@ -1,0 +1,10 @@
+﻿name,gender,department,salary
+John,male,IT,500000
+Elizabeth,female,IT,600000
+Rita,female,Accountant,450000
+Paul,male,Sales,300000
+Timothy,male,Sales,400000
+Dammy,female,Manager,
+George,,Executive,750000
+Wendy,female,,400000
+Precious,male,Executive,800000
